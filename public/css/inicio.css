@@ -1,0 +1,31 @@
+body {
+    background-color: #001f3f;
+    color: white; 
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.c-datos, .c-input, .c-button {
+    background-color: #00a2e8;
+    color: white;
+    text-align: center;
+}
+
+.c-datos h1, h2 {
+    color: white; 
+    text-shadow: 
+        -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+.btn {
+    background-color: #00a2e8; 
+    border-color: #00a2e8;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #001f3f; 
+}

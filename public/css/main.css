@@ -1,0 +1,46 @@
+body {
+    background-color: #001f3f;
+    color: white; 
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-user {
+    font-size: 5rem;
+    color: white; 
+    text-shadow: 
+        -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+.input-group-text {
+    background-color: #00a2e8;
+    color: white;
+    border: none;
+}
+
+input.form-control {
+    border-radius: 0;
+    background-color: #f0e6e6;
+    color: #000;
+}
+
+.btn {
+    background-color: #00a2e8; 
+    border-color: #00a2e8;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #001f3f;
+}
+
+a {
+    color: #00a2e8; 
+    font-weight: bold;
+}
